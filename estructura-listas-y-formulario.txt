@@ -1,0 +1,30 @@
+Estructura de listas 
+ 
+## Lista: Solicitudes
+URL: https://unisabanaedu.sharepoint.com/sites/PilotoGobiernodeproyectos/Lists/Solicitudes
+ 
+- Título (una línea de texto)
+- Tipo Solicitud (elección)
+- Nombre Proyecto (una línea de texto)
+- Área Responsable (una línea de texto)
+- Solicitante (una línea de texto)
+- Fecha Inicio Estimada (fecha y hora)
+- Descripción (varias líneas de texto)
+- Justificación (varias líneas de texto)
+- Prioridad (elección)
+- Estado (elección)
+- Fecha Decisión (fecha y hora)
+- Decisión y justificación (varias líneas de texto)
+ 
+## Lista: Deudas Técnicas
+URL: https://unisabanaedu.sharepoint.com/sites/PilotoGobiernodeproyectos/Lists/Deudas Tcnicas
+ 
+- Título (una línea de texto)
+- ID Proyecto (una línea de texto)
+- Nombre Proyecto (una línea de texto)
+- Descripción deuda técnica (varias líneas de texto)
+- Plan de Acción (varias líneas de texto)
+- Responsable (persona o grupo)
+- Fecha del Proyecto (fecha y hora)
+- Fecha Deuda Técnica (fecha y hora)
+- Observaciones (varias líneas de texto)
